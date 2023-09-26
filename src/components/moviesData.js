@@ -1,7 +1,8 @@
 const moviesData = [
 	{
 		title: "Spider Man (2002)",
-		description: "Description 1",
+		description:
+			"Spider-Man (2002) is a superhero film directed by Sam Raimi. It tells the story of Peter Parker, a high school student who gains spider-like abilities and becomes the iconic superhero Spider-Man. As he juggles his newfound powers and responsibilities, he faces the villainous Green Goblin.",
 		trailerLink:
 			"https://www.youtube.com/embed/t06RUxPbp_c?si=fOtXSR38pqkhsPex",
 		image:
@@ -9,7 +10,8 @@ const moviesData = [
 	},
 	{
 		title: "Oppenheimer",
-		description: "Description 2",
+		description:
+			"Oppenheimer is an upcoming biographical drama film directed by Christopher Nolan. The film explores the life of J. Robert Oppenheimer, the American physicist who played a key role in the development of the atomic bomb during World War II. It delves into the moral and ethical dilemmas faced by scientists involved in the Manhattan Project.",
 		trailerLink:
 			"https://www.youtube.com/embed/uYPbbksJxIg?si=XMapXhVVPxaBNI7g",
 		image:
@@ -17,7 +19,8 @@ const moviesData = [
 	},
 	{
 		title: "The Last - Naruto the Movie",
-		description: "description",
+		description:
+			"The Last - Naruto the Movie is an anime film set in the Naruto Shippuden series. It takes place after the events of the Fourth Great Ninja War and focuses on Naruto Uzumaki's quest to rescue Hinata Hyuga. The film explores themes of love and destiny in the world of ninjas.",
 		trailerLink:
 			"https://www.youtube.com/embed/tA3yE4_t6SY?si=Rhs-PnzaJ-e5SrfA",
 		image:
@@ -25,7 +28,8 @@ const moviesData = [
 	},
 	{
 		title: "One Piece Film Red",
-		description: "Description 2",
+		description:
+			"One Piece Film Red is an upcoming animated film based on the popular manga and anime series One Piece created by Eiichiro Oda. The film follows the adventures of Monkey D. Luffy and his crew as they encounter new challenges and mysteries on the high seas. Join the Straw Hat Pirates on another epic journey!",
 		trailerLink:
 			"https://www.youtube.com/embed/eU0i7L3cakI?si=PGafdZFUV-caCpk3",
 		image:

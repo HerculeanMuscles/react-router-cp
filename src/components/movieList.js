@@ -17,7 +17,6 @@ function MovieList({ movies, onMovieClick }) {
 							</div>
 							<Card.Body>
 								<Card.Title>{movie.title}</Card.Title>
-								<Card.Text>{movie.description}</Card.Text>
 								<Button onClick={() => onMovieClick(index)} variant="primary">
 									Watch Trailer
 								</Button>
